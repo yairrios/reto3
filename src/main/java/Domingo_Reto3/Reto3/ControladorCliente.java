@@ -4,6 +4,8 @@
  */
 package Domingo_Reto3.Reto3;
 
+import Domingo_Reto3.Reto3.Cliente;
+import Domingo_Reto3.Reto3.ServiciosCliente;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
